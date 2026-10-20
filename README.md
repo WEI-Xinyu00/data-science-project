@@ -14,3 +14,5 @@ Use `bokeh.plotting` to draw line charts of population density for Germany and S
 1. Install dependencies.
 2. Launch jupyter lab.
 3. Open `Exercise9.01.ipynb` and run all cells.
+
+Visualisation files: plot1.png, plot2.png
